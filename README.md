@@ -188,19 +188,15 @@ Python, SQL, DSA & Data Analytics
 <h2 align="center">🏆 GITHUB ACHIEVEMENTS</h2>
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Arjamanish&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" width="100%" />
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Arjamanish&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" width="100%" />
 </div>
 
 ---
 
-<h2 align="center">🐍 MY CONTRIBUTION SNAKE</h2>
+<h2 align="center">📈 CONTRIBUTION ACTIVITY</h2>
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Arjamanish/Arjamanish/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arjamanish&bg_color=0d1117&color=36bcf7&line=8957e5&point=ffffff&area=true&hide_border=true" width="100%" />
 </div>
 
 ---
